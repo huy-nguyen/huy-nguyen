@@ -13,7 +13,7 @@ I'm currently exploring three broad areas of interest in software development:
 - How the [twelve-factor app methodology](https://12factor.net/) can be applied in practice to create reliable and scalable web applications.
 
 I write a technical blog at [huy.dev](https://www.huy.dev).
-You can also find me on [Twitter](https://twitter.com/huy_dev) and [LinkedIn](http://www.linkedin.com/in/huynguyen3/)
+You can also find me on [Twitter](https://twitter.com/huy_dev) and [LinkedIn](http://www.linkedin.com/in/huynguyen3/).
 
 
 <!--
